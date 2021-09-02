@@ -4,6 +4,7 @@ Rencana belajar
   *ES6
   *FRAMEWORK JAVASCRIPT
   >Vue JS
+  >React JS
 -GOLANG
 -PYTHON
 -PHP
