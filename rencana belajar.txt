@@ -1,0 +1,7 @@
+Rencana belajar
+
+-JAVASCRIPT
+-GOLANG
+-PYTHON
+-PHP
+-FLUTTER
