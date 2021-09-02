@@ -1,6 +1,8 @@
 Rencana belajar
 
 -JAVASCRIPT
+  *ES6
+  *FRAMEWORK JAVASCRIPT
 -GOLANG
 -PYTHON
 -PHP
