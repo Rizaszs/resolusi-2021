@@ -3,9 +3,10 @@ Rencana belajar
 -JAVASCRIPT
   *ES6
   *FRAMEWORK JAVASCRIPT
-  >Angular
+  >Vue JS
   >React JS
 -GOLANG
 -PHP
   >Laravel
 -FLUTTER
+-PYTHON
