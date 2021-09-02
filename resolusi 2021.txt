@@ -1,0 +1,4 @@
+RESOLUSI 2021
+-Memahami bahasa pemrograman javascript
+-Bekerja sebagai full stack web developments
+-Menjadi mentor pemrograman
