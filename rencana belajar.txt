@@ -6,7 +6,7 @@ Rencana belajar
   >Vue JS
   >React JS
 -GOLANG
--PYTHON
 -PHP
+  >Laravel
 -FLUTTER
 -PYTHON
